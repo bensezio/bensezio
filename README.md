@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <!-- Header with a cool banner -->
 <p align="center">
-  <img src="https://your-banner-image-url.com" alt="Banner" width="100%" />
+  <img src="https://github.com/bensezio/bensezio/blob/main/dalle-futuristic-Developer-Agent.jpg" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Benedict Sefa 👋</h1>
